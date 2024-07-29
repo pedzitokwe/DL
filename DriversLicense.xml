@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This XML document hold the details of a drivers license -->
+<DriversLicense>
+	<Number>123456</Number>
+	<FirstName>Pedzi</FirstName>
+	<LastName>Tokwe</LastName>
+	<DateOfBirth>14/sep/1989</DateOfBirth>
+	<VehicleType>Car</VehicleType>
+	<DateOfIssue>11/jan/2015</DateOfIssue>
+	<![CDATA[
+	<DateOfBirth>11/jun/2023</DateOfBirth>
+	]]>
+	<ExpiryDate>11/jan/2025</ExpiryDate>
+	<Photo location="servername/filename"></Photo>
+</DriversLicense>
